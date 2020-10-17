@@ -342,6 +342,8 @@ header{
     }
 }
 
+
+
 .about-me{
     max-width: 1000px;
     margin: 0 auto;
@@ -383,6 +385,7 @@ header{
     }
     
 }
+
 .my-work{
     background: var(--clr-dark);
     color: var(--clr-light);
@@ -458,6 +461,7 @@ header{
     justify-content: center;
     margin: 2em 0 0 0;
     padding: 0;
+    
 }
 
 .social-list__item{
